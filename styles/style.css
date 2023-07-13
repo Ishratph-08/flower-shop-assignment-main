@@ -1,0 +1,54 @@
+.banner-container
+{
+width:1900px;
+height:350px;
+align-items:center;
+background-color:rgba(229, 84, 115, 0.10); 
+display:flex;
+justify-content:space-around;
+
+}
+/*.banner-left
+{
+height: 350px;
+align-items:center;
+border:5px;
+border-color: blueviolet;
+}*/
+.banner-text
+{
+border:5px;
+border-color: black;
+
+}
+.btn
+{
+    background-color:#E55473;
+    width:80px;
+    height:30px;
+    color:antiquewhite;
+    font-size:18px;
+    font-family:'Times New Roman', Times, serif;
+    border-radius: 5px;
+    
+}
+.banner-pic
+{
+    width: 600px;
+    height:350px;
+    align-items:center;
+}
+.flower1
+{
+width: 350px;
+height:350px ; 
+}
+/* styles on main*/
+.sec-text
+{
+    
+    text-align:center;
+    padding: 10%;
+  
+    
+}
